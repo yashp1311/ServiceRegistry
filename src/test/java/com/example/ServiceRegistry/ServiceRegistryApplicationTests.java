@@ -7,6 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class ServiceRegistryApplicationTests {
 
 	@Test
+	@SuppressWarnings("unused")
 	void contextLoads() {
 		// This test ensures that the Spring application context loads successfully.
 	}
